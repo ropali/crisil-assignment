@@ -1,0 +1,7 @@
+[project]
+name = "crisil-assignment"
+version = "0.1.0"
+description = "Credit Rating Agency - Residential Mortgage Securities (RMBS)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
